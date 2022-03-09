@@ -1,0 +1,69 @@
+P413	0	position or specialism of a player on a team
+P1534	1	qualifier to use together with the end date qualifier (P582) to specify the cause
+isMarriedTo	2	is Married To
+worksAt	3	works At
+P1351	4	goals / points scored in a match or an event used as qualifier to the participant. Use P1358 for league points.
+P570	5	date on which the subject died
+P1107	6	to be used as a qualifier, value must be between 0 and 1
+P1686	7	qualifier of award received (P166) to specify the work that an award was given to the creator for
+P2094	8	official classification by a regulating body under which the subject (events, teams, participants, or equipment) qualifies for inclusion
+P2562	9	name or surname adopted by a person upon marriage
+P1027	10	person or organization who grants an award, certification, or role
+P1683	11	quotation supporting the statement claim (to be used in the reference or qualifier field only, no quote marks)
+P101	12	specialization of a person or organization; see P106 for the occupation
+playsFor	13	plays For
+P393	14	number of an edition (first, second, ... as 1, 2, ...) or event
+diedIn	15	died In
+created	16	created
+P1545	17	position of an item in its parent series (most frequently a 1-based index), generally to be used as a qualifier (different from "rank" defined as a class, and from "ranking" defined as a property for evaluating a quality).
+P1319	18	earliest date at which an event could have happened. Use as qualifier for other date properties
+P1706	19	qualifier to specify the item that this property is shared with
+P17	20	sovereign state of this item (not to be used for human beings)
+P6375	21	full street address where subject is located. Include building number, city/locality, post code, but not country. Use also P669 if the street has its own separate item
+P5102	22	(qualifier only) the underlying circumstances of this statement
+P1642	23	how the player was acquired; qualifier for P54 (member of sports team)
+isAffiliatedTo	24	is Affiliated To
+P580	25	time a time period starts
+graduatedFrom	26	graduated From
+P39	27	subject currently or formerly holds the object position or public office
+P166	28	award or recognition received by a person, organisation or creative work
+P1932	29	use as qualifier to indicate how the object's value was given in the source
+P805	30	(qualifying) item that describes the relation identified in this statement
+P512	31	academic degree that the person holds
+P156	32	immediately following item in a series of which the subject is a part, preferably use as qualifier of P179 [if the subject has been replaced, e.g. political offices, use "replaced by" (P1366)]
+P793	33	significant or notable events associated with the subject
+P1326	34	latest possible time that something could have occurred. Use as qualifier for other date properties
+wasBornIn	35	was Born In
+P118	36	league in which team or player plays or has played in
+P212	37	identifier for a book (edition), thirteen digit
+P54	38	sports teams or clubs that the subject represents or represented
+P2046	39	area occupied by an object
+owns	40	owns
+P1810	41	name by which a subject is recorded in a database or mentioned as a contributor of a work
+P1480	42	qualification of the truth or accuracy of a source: circa (Q5727902), near (Q21818619), presumably (Q18122778), etc.
+P1618	43	number worn on a player's (competitor's) uniform, equipment, etc
+P6208	44	qualifier to add short citation explaining the official reason for awarding a prize to a winner by the person or organization who gives the award. Do not use this property to annotate or add comments about a person's award. No quote marked needed.
+P2121	45	amount in a specific currency
+P1971	46	number of children of the person
+P361	47	object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A). Inverse property of "has part" (P527, see also "has parts of the class" (P2670)).
+P582	48	time a time period ends
+P577	49	date or point in time when a work was first published or released
+P1416	50	organization that a person or organization is affiliated with (not necessarily member of or employed by)
+P812	51	major someone studied at college/university
+P184	52	person who supervised the doctorate or PhD thesis of the subject
+P1350	53	matches or games a player or a team played during an event. Also a total number of matches a player officially appeared in during the whole career.
+P4633	54	name by which a character role is recorded in a database or mentioned in the context of a work, use as qualifier for cast; notably a specific performance of a theatrical production of a play
+P1346	55	winner of a competition or similar event, not to be used for awards (instead use "award received" (P166) on awardee's item, possibly qualified with "for work" (P1686)) or for wars or battles
+P102	56	the political party of which a person is or has been a member or otherwise affiliated
+P4241	57	qualifier to narrow down the precision of a date not fully specified by the Wikidata time datatype precision field
+P131	58	the item is located on the territory of the following administrative entity. Use P276 for specifying locations that are non-administrative places and for items about events. Use P1382 if the item falls only partially into the administrative entity.
+P27	59	the object is a country that recognizes the subject as its citizen
+hasWonPrize	60	has Won Prize
+P585	61	time and date something took place, existed or a statement was true
+P155	62	immediately prior item in a series of which the subject is a part, preferably use as qualifier of P179 [if the subject has replaced the preceding item, e.g. political offices, use "replaces" (P1365)]
+P625	63	geocoordinates of the subject. For Earth, please note that only WGS84 coordinating system is supported at the moment
+P7452	64	qualifier to allow the reason to be indicated why a particular statement should be considered preferred
+P642	65	(Use a more specific property where feasible; this property will be deprecated) qualifier stating that a statement applies within the scope of a particular item
+P407	66	language associated with this creative work (such as books, shows, songs, broadcasts or websites) or a name (for persons use "native language" (P103) and "languages spoken, written or signed" (P1412))
+P1026	67	thesis or dissertation written for a degree
+P2842	68	location where the marriage was celebrated. Use as qualifier for property "spouse" (P26)

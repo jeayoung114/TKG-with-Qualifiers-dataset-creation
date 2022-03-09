@@ -1,0 +1,97 @@
+P3323	0	participant in the defense of a doctoral thesis
+P1268	1	organization, individual, or concept that an entity represents
+P582	2	time a time period ends
+P512	3	academic degree that the person holds
+P4626	4	qualifier to specify the identity that applies to a statement when the object of the statement has another identity covered by another item
+P1066	5	person who has taught this person
+P4345	6	person leading the archaeological or anthropological investigation at a given site
+P1642	7	how the player was acquired; qualifier for P54 (member of sports team)
+P92	8	text setting the main rules by which the subject is regulated
+P2241	9	qualifier to indicate why a particular statement should be have deprecated rank
+P642	10	(Use a more specific property where feasible; this property will be deprecated) qualifier stating that a statement applies within the scope of a particular item
+P823	11	person who is speaker for this event, ceremony, keynote, presentation or in a literary work
+P1346	12	winner of a competition or similar event, not to be used for awards (instead use "award received" (P166) on awardee's item, possibly qualified with "for work" (P1686)) or for wars or battles
+P137	13	person, profession, or organization that operates the equipment, facility, or service
+P166	14	award or recognition received by a person, organisation or creative work
+P580	15	time a time period starts
+P27	16	the object is a country that recognizes the subject as its citizen
+P31	17	that class of which this subject is a particular example and member
+P579	18	status given to each mineral by the IMA (International Mineralogical Association)
+P150	19	(list of) direct subdivisions of an administrative territorial entity
+P17	20	sovereign state of this item (not to be used for human beings)
+P2094	21	official classification by a regulating body under which the subject (events, teams, participants, or equipment) qualifies for inclusion
+P5054	22	qualifier for "position held" (P39) to indicate the cabinet to which belongs a minister
+P7452	23	qualifier to allow the reason to be indicated why a particular statement should be considered preferred
+P609	24	location of the terminus of a linear feature
+P155	25	immediately prior item in a series of which the subject is a part, preferably use as qualifier of P179 [if the subject has replaced the preceding item, e.g. political offices, use "replaces" (P1365)]
+P828	26	underlying cause, thing that ultimately resulted in this effect
+P69	27	educational institution attended by subject
+P39	28	subject currently or formerly holds the object position or public office
+P1013	29	property by which a distinction or classification is made
+P1643	30	how the player was released or transferred from the roster; qualifier for P54 (member of sports team)
+P102	31	the political party of which a person is or has been a member or otherwise affiliated
+P812	32	major someone studied at college/university
+P647	33	which team the player was drafted by
+P2715	34	qualifier for statements in position held to link the election in which a person gained a position from, or reelection in which the position was confirmed
+P5102	35	(qualifier only) the underlying circumstances of this statement
+P3831	36	(qualifier) role or generic identity of the value of a statement ("object") in the context of that statement; for the role of the item the statement is on ("subject"), use P2868
+P54	37	sports teams or clubs that the subject represents or represented
+P4353	38	who nominated a person for an office or award; can be used as a qualifier
+P26	39	the subject has the object as their spouse (husband, wife, partner, etc.). Use "unmarried partner" (P451) for non-married companions
+P4649	40	qualifier for subjects which may have different identities which are covered by different items, the identity to which the qualified statement applies
+P1435	41	heritage designation of a cultural or natural site
+P101	42	specialization of a person or organization; see P106 for the occupation
+P2348	43	time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred
+P3005	44	place where a statement is valid
+P1686	45	qualifier of award received (P166) to specify the work that an award was given to the creator for
+P2868	46	role/generic identity of the item ("subject"), also in the context of a statement. For the role of the value of the statement ("object"), use P3831 ("object has role"). For acting roles, use P453 ("character role"). For persons, use P39.
+P1411	47	award nomination received by a person, organisation or creative work (inspired from "award received" (Property:P166))
+P6	48	head of the executive power of this town, city, municipality, state, country, or other governmental body
+P2842	49	location where the marriage was celebrated. Use as qualifier for property "spouse" (P26)
+P2650	50	item of special or vested interest to this person or organisation
+P35	51	official with the highest formal authority in a country/state
+P1376	52	country, state, department, canton or other administrative division of which the municipality is the governmental seat
+P7174	53	(qualifier) class of a given year/time period to which the person belonged in an educational institution
+P1366	54	other person or item which continues the item by replacing it in its role. Use P156 (followed by) if the item is not replaced (e.g. books in a series), nor identical, but adds to the series without dropping the role of this item in that series
+P123	55	organization or person responsible for publishing books, periodicals, printed music, podcasts, games or software
+P1416	56	organization that a person or organization is affiliated with (not necessarily member of or employed by)
+P459	57	how a value is determined, or the standard by which it is declared
+P136	58	creative work's genre or an artist's field of work (P101). Use main subject (P921) to relate creative works to their topic
+P3085	59	this event qualifies for that event
+P4100	60	parliamentary group to which a member of a parliament belongs
+P2614	61	selection criteria for UNESCO's cultural and natural 'World Heritage' designation since 2005
+P413	62	position or specialism of a player on a team
+P184	63	person who supervised the doctorate or PhD thesis of the subject
+P3680	64	entity that supports a given statement
+P407	65	language associated with this creative work (such as books, shows, songs, broadcasts or websites) or a name (for persons use "native language" (P103) and "languages spoken, written or signed" (P1412))
+P1365	66	person, state or item replaced. Use "structure replaces" (P1398) for structures. Use "follows" (P155) if the previous item was not replaced or predecessor and successor are identical
+P2937	67	term of a parliament or any deliberative assembly
+P2453	68	qualifier used with «nominated for» to specify which person or organization was nominated
+P921	69	primary topic of a work (see also P180: depicts)
+P1026	70	thesis or dissertation written for a degree
+P768	71	electoral district this person is representing, or of the office that is being contested. Use as qualifier for "position held" (P39) or "office contested" (P541) or "candidacy in election" (P3602)
+P811	72	minor someone studied at college/university
+P748	73	who appointed the person to the office, can be used as a qualifier
+P366	74	main use of the subject (includes current and former usage)
+P793	75	significant or notable events associated with the subject
+P276	76	location of the object, structure or event. In the case of an administrative entity as containing item use P131. For statistical entities use P8138. In the case of a geographic entity use P706. Use P7153 for locations associated with the object.
+P463	77	organization, club or musical group to which the subject belongs. Do not use for membership in ethnic or social groups, nor for holding a political position, such as a member of parliament (use P39 for that).
+P1037	78	person who manages any kind of group
+P559	79	the feature (intersecting road, train station, etc.) at the end of a linear feature
+P108	80	person or organization for which the subject works or worked
+P1706	81	qualifier to specify the item that this property is shared with
+P190	82	twin towns, sister cities, twinned municipalities and other localities that have a partnership or cooperative agreement, either legally or informally acknowledged by their governments
+P710	83	person, group of people or organization (object) that actively takes/took part in an event or process (subject).  Preferably qualify with "object has role" (P3831). Use P1923 for participants that are teams.
+P156	84	immediately following item in a series of which the subject is a part, preferably use as qualifier of P179 [if the subject has been replaced, e.g. political offices, use "replaced by" (P1366)]
+P518	85	part, aspect, or form of the item to which the claim applies
+P1534	86	qualifier to use together with the end date qualifier (P582) to specify the cause
+P361	87	object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A). Inverse property of "has part" (P527, see also "has parts of the class" (P2670)).
+P2962	88	title awarded by a chess federation to a person
+P805	89	(qualifying) item that describes the relation identified in this statement
+P551	90	the place where the person is or has been, resident
+P708	91	administrative division of the church to which the element belongs; use P5607 for other types of ecclesiastical territorial entities
+P118	92	league in which team or player plays or has played in
+P1310	93	entity that disputes a given statement
+P1027	94	person or organization who grants an award, certification, or role
+P21	95	sex or gender identity of human or animal. For human: male, female, non-binary, intersex, transgender female, transgender male, agender. For animal: male organism, female organism. Groups of same gender use subclass of (P279)
+P131	96	the item is located on the territory of the following administrative entity. Use P276 for specifying locations that are non-administrative places and for items about events. Use P1382 if the item falls only partially into the administrative entity.
