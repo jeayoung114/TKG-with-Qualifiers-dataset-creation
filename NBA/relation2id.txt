@@ -1,0 +1,5 @@
+win	0
+draw	1
+lose	2
+home_team_player	3
+away_team_player	4
